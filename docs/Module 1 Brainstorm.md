@@ -2,7 +2,7 @@
 
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
+  - Brinley Soft
   - [Insert name idea 2]
   - [Insert name idea 3]
 - **Alternative Ideas:**
