@@ -4,10 +4,10 @@
 ### Date: 01/27/2025
 
 #### Goals for this Module
-- [X] Setup the platforms that will be used for the course, such as Professor Toegel's Learn platform and this GitHub repository.
-- [X] Learn about what a game actually is and what gameplay is.
-- [X] Complete the "Dev. Log" assignment.
-- [X] Complete the "Studio Brainstorm" assignment.
+- Setup the platforms that will be used for the course, such as Professor Toegel's Learn platform and this GitHub repository.
+- Learn about what a game actually is and what gameplay is.
+- Complete the "Dev. Log" assignment.
+- Complete the "Studio Brainstorm" assignment.
 
 #### Progress
 - **What I accomplished**:
