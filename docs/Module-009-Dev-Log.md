@@ -19,6 +19,7 @@
   - I continued to have difficulty in understanding some of the presentations.
 - **Solutions**:
   - I continued to ask questions to the presenters to help clarify the unclear stuff about the presentations.
+
 #### Learnings
 - I learned about the concept of grids in the context of board games.
 - I learned about the entity component system.
