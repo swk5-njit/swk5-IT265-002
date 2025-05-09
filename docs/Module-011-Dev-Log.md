@@ -1,40 +1,30 @@
 ## Name: Stephen Kymn
 ### Module: 11
 
-### Date: 05/07/2025
+### Date: 05/09/2025
 
 #### Goals for this Module
-- Goal 1
-- Goal 2
-- Goal 3
+- Learn about particles and physics in the context of games.
+- Complete the "Dev. Log" assignment.
+- Finish the final deliverables, which are the finalized game design document and finalized game demo.
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Learned about particles and physics in the context of games.
+  - Completed the "Dev. Log" assignment.
+  - Finished the final deliverables, which are the finalized game design document and finalized game demo.
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - It was a bit difficult to make sure that the final deliverables were polished enough.
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - I have used various Internet resources and course materials (as needed) to help me resolve the problem(s) that I encountered.
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I learned about particles and physics in the context of games through the class session(s).
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- N/A
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Make sure that I understand the new concepts that I learned.
+- Make sure the final deliverables are complete and meet the requirements listed in the assignment instructions.
+- I had a wonderful time being in the class and I will cherish the things that I have learned forever.
