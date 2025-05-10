@@ -1,5 +1,8 @@
 # **Shadow Syndicate Final Game Design Document**
 
+## Video Demonstration
+https://njit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46681ff8-e798-469d-a4ed-b2d9011b0ce8
+
 ## **Change Log**
 
 ### **Version 1.0 (Testing & Physical Prototype)**
